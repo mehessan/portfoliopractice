@@ -1,0 +1,17 @@
+td{
+	/*width: 100px;*/
+	font-size: 20px;
+}
+
+.mar p{
+	margin-top: 20px;
+}
+
+#project img{
+	height: 300px;
+	width: 300px;
+
+}
+h2{
+	color: blue;
+}
